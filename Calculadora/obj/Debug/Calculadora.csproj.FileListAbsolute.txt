@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\padawan2-CSharp-main\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Rafael\Desktop\padawan2-CSharp-main\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Rafael\Desktop\padawan2-CSharp-main\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Rafael\Desktop\padawan2-CSharp-main\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\padawan2-CSharp-main\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\padawan2-CSharp-main\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Rafael\Desktop\padawan2-CSharp-main\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Rafael\Desktop\calculadora c\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Rafael\Desktop\calculadora c\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Rafael\Desktop\calculadora c\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Rafael\Desktop\calculadora c\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\calculadora c\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\calculadora c\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Rafael\Desktop\calculadora c\Calculadora\obj\Debug\Calculadora.pdb
